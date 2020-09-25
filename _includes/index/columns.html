@@ -26,8 +26,7 @@
           <a href="{{ item.url | prepend: site.baseurl }}" class="text-reset">
             <h5 class="card-title">{{ item.title }}</h5>
           </a>
-          <p class="card-text">{{ item.description }}</p>
-          <p class="card-text"><small class="text-muted">{{ item.date | date_to_long_string }}</small></p>
+          <p class="card-text">{{ item.excerpt }}</p>
         </div>
       </div>
     {% endfor %}
