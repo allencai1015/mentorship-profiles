@@ -1,7 +1,25 @@
+<h1>Mentors</h1>
 <section class="row m-2">
   <div class="card-columns">
-    {% assign articles = site.articles | reverse | slice: 0, 6 %}
-    {% for item in articles %}
+    {% assign mentors = site.mentors | reverse %}
+    {% for item in mentors %}
+      <div class="card p-3 border-0 zoom">
+        <img src="{{ item.image }}" class="card-img-top" alt="Image of {{ item.title }}">
+        <div class="card-body">
+          <a href="{{ item.url | prepend: site.baseurl }}" class="text-reset">
+            <h5 class="card-title">{{ item.title }}</h5>
+          </a>
+          <p class="card-text">{{ item.excerpt }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+<h1>Mentees</h1>
+<section class="row m-2">
+  <div class="card-columns">
+    {% assign mentees = site.mentees | reverse %}
+    {% for item in mentees %}
       <div class="card p-3 border-0 zoom">
         <img src="{{ item.image }}" class="card-img-top" alt="Image of {{ item.title }}">
         <div class="card-body">
