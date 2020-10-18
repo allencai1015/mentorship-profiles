@@ -18,5 +18,5 @@ I want to work in business (not really sure exactly what yet). One of my biggest
 Basketball, videography, photography, writing, video games, board games, martial arts, music, table tennis, watching television, youtube, weight training, squash, biking. I am very much open to trying anything.
 
 <div class="text-center mt-5">
-    <img src="{{ "assets/images/dylan-luong.jpeg" | absolute_url }}" alt="Dylan Luong" class="rounded" />
+    <img src="{{ "assets/images/dylan-luong.jpeg" | absolute_url }}" alt="Dylan Luong" class="rounded post-img" />
 </div>

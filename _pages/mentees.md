@@ -4,4 +4,4 @@ title: mentees
 permalink: /mentees
 ---
 
-{% include sections/items_except_last.html items=site.mentees%}
+{% include sections/items.html items=site.mentees%}

@@ -6,7 +6,7 @@
 }
 
 .blog-header-logo {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 2.25rem;
 }
 
@@ -14,8 +14,8 @@
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+title, h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 .zoom {
@@ -118,6 +118,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #999;
 }
 
+.polka {
+  background-color: #f8f9fa;
+  opacity: 1;
+  background-image: radial-gradient(#696969 0.9px, #f8f9fa 0.9px);
+  background-size: 18px 18px;
+}
+
+.post-img {
+  width: 100%;
+}
+
 /*
  * Footer
  */
@@ -139,5 +150,4 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 12px;
 	padding: 1em;
   text-align: center;
-  font-family: Mansalva;
 }
