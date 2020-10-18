@@ -1,7 +1,7 @@
 <h1>Mentors</h1>
 <section class="row m-2">
   <div class="card-columns">
-    {% assign mentors = site.mentors | reverse %}
+    {% assign mentors = site.mentors | reverse%}
     {% for item in mentors %}
       <div class="card p-3 border-0 zoom">
         <img src="{{ item.image }}" class="card-img-top" alt="Image of {{ item.title }}">
@@ -18,7 +18,7 @@
 <h1>Mentees</h1>
 <section class="row m-2">
   <div class="card-columns">
-    {% assign mentees = site.mentees | reverse %}
+    {% assign mentees = site.mentees | reverse%}
     {% for item in mentees %}
       <div class="card p-3 border-0 zoom">
         <img src="{{ item.image }}" class="card-img-top" alt="Image of {{ item.title }}">
