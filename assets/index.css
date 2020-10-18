@@ -118,6 +118,16 @@ title, h1, h2, h3, h4, h5, h6 {
   color: #999;
 }
 
+.info {
+  list-style: none;
+  font-style: italic;
+}
+
+.info li {
+  display: inline;
+  margin-left: 2em;
+}
+
 .polka {
   background-color: #f8f9fa;
   opacity: 1;

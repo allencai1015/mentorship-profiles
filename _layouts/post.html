@@ -1,9 +1,25 @@
 ---
 layout: default
 ---
-<div class="jumbotron polka">
+<div class="py-3 polka">
   <h1 class="col-md-5 mx-auto d-flex justify-content-center">{{ page.title }}</h1>
 </div>
+
 <article class="container">
+  <div class="d-flex justify-content-center">
+    <ul class="info mt-2">
+      <li><strong>Year:</strong> {{ page.year }}</li>
+      <li><strong>Major:</strong> {{ page.major }}</li>
+      
+      {% if page.concentration %}
+      <li><strong>Concentration:</strong> {{ page.concentration }}</li>
+      {% endif %}
+    
+      {% if page.minor %}
+      <li><strong>Minor:</strong> {{ page.minor }}</li>
+      {% endif %}
+    </ul>
+  </div>
+
   {{ content }}
 </article>

@@ -8,7 +8,7 @@ about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t
 year: Junior 
 major: Awesome Thing
 minor: Other Awesome Thing
-
+concentration: Awesomeness
 ---
 
 ### About
