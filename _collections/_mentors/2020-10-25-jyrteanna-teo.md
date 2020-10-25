@@ -1,32 +1,35 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Jyrteanna Teo"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/jyrteanna-teo.jpg # Please make sure to upload image in assets/images/fname-lastname.ext format 
+about: I’m a pretty chill person. I like to have fun, go out and try new things but I also take school seriously; trying hard to keep that work-life balance! # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Pre-Junior
+major: Architectural Engineering 
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I’m a pretty chill person. I like to have fun, go out and try new things but I also take school seriously; trying hard to keep that work-life balance!
+
+### Previous Work Experience
+- Architectural/Mechanical Co-op at Philadelphia International Airport
+- Architectural/Mechanical Intern at NIST
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+My long term career goal is obtain a job after graduation which involves tasks that incorporate sustainability in designing HVAC systems and the analysis of IAQ on buildings. One of my short term career goals is to improve on my networking and communication skills.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I enjoys arts & crafts, listening to music, photography and trying out new recipes.
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I hope that the relationship I have with my mentee is more casual and non-formal, with open communication as I hope to simply be just another addition to their growing support system.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jyrteanna-teo.jpg" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
 </div>
