@@ -25,6 +25,7 @@ collections_dir: _collections
 twitter_username: jekyllrb
 github_username:  jekyll
 
+destination: "_docs"
 # Build settings
 markdown: kramdown
 plugins:
