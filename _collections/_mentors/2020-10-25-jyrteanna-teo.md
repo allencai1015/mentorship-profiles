@@ -31,5 +31,5 @@ I enjoys arts & crafts, listening to music, photography and trying out new recip
 I hope that the relationship I have with my mentee is more casual and non-formal, with open communication as I hope to simply be just another addition to their growing support system.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/jyrteanna-teo.jpg" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jyrteanna-teo.jpg" | absolute_url }}" alt="Jyrteanna Teo" class="rounded post-img" />
 </div>
