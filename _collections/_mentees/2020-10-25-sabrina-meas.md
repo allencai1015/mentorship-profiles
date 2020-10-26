@@ -3,7 +3,7 @@ layout: post
 title: "Sabrina Meas"
 date:   2020-10-25 # Date you're making this file in Y-M-D
 image: assets/images/sabrina-meas.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice. # "Briefly describe yourself"
+about: I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice. And if you are ever in need for memes (or among us memes), I'd be glad to share them with you! # "Briefly describe yourself"
 # pull the following info from form
 year: Freshman 
 major: Chemical Engineering
@@ -13,7 +13,7 @@ major: Chemical Engineering
 
 ### About
 
-I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice.
+I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice. And if you are ever in need for memes (or among us memes), I'd be glad to share them with you!
 
 ### Career Goals
 
@@ -21,7 +21,7 @@ I'm still trying to figure out what I want to do. I know that I want to do somet
 
 ### Interests
 
-I really like to video edit, although I'm still quite an amateur at it. I'm into Lo-fi and Indie music, and I am obsessed with K-dramas (Also, Grey's Anatomy and Black Mirror). I also love cafe hopping, eating (but who doesn't), and doing mini photoshoots with my friends!
+I really like to video edit, although I’m still quite an amateur at it. I’m into Lo-fi and Indie music, making spotify playlists for fun. I am obsessed with K-dramas, so I can give you a lot of reccomendations (Also, Grey’s Anatomy and Black Mirror). I also love cafe hopping, eating (but who doesn’t), and doing mini photoshoots with my friends!
 
 ### Looking For
 
