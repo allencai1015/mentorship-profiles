@@ -5,7 +5,7 @@ date:   2020-10-25 # Date you're making this file in Y-M-D
 image: assets/images/sabrina-meas.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
 about: I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice. # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
+year: Freshman 
 major: Chemical Engineering
 
 
