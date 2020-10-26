@@ -2,7 +2,7 @@
 layout: post
 title: "Kenn Chong"
 date:   2020-10-25 # Date you're making this file in Y-M-D
-image: assets/images/kenn-chong.jpg # Please make sure to upload image in /assets/images/firstname-lastname.ext format 
+image: assets/images/kenn-chond.jpg # Please make sure to upload image in /assets/images/firstname-lastname.ext format 
 about: 20 years old, looking for experiences that will allow me to grow and mature as a person. I want to do stuff that makes me feel a bit uncomfortable because I feel like challenging life feels more fun.  # "Briefly describe yourself"
 # pull the following info from form
 year: Freshman
@@ -28,5 +28,5 @@ Interested in cooking as well as making food on my own.
 I want to look for guidance in my path in Computer Science
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/kenn-chong.jpg" | absolute_url }}" alt="Kenn Chong" class="rounded post-img" />
+    <img src="{{ "assets/images/kenn-chond.jpg" | absolute_url }}" alt="Kenn Chong" class="rounded post-img" />
 </div>
