@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Andrea Eleazar"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/andrea-eleazar.JPG # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: Adventurous and studious introvert who enjoys learning, meeting new people, and organization. Very passionate about music (violin for 13 years). I’m a foodie and love getting food/boba with friends! Avid hot leaf juice drinker; my personality is probably best described as a mix of Iroh and Zuko (ATLA). # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Sophomore
+major: Public Health
+minor: Bioinformatics, Global Studies
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adventurous and studious introvert who enjoys learning, meeting new people, and organization. Very passionate about music (violin for 13 years). I’m a foodie and love getting food/boba with friends! Avid hot leaf juice drinker; my personality is probably best described as a mix of Iroh and Zuko (ATLA).
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Epidemiologist or biostatistician for the government (CDC/NIH/FDA) or in a global capacity (WHO), but also exploring other fields/industries for R&D like pharmaceuticals and medical technology. I hope to intertwine biomedical science, social science and data analysis to solve medical problems and minimize health disparities.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Violin/orchestra; anime, kdramas; Nintendo games (especially Zelda and Fire Emblem); creative writing; food; stationery; badminton. Music genres include kpop, jrock, lofi, (k)r&b, classical, Ghibli music, video game OSTs. 
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As a mentor and mentee, I hope that our relationship will be productive where both of us will mutually benefit from giving/receiving advice. I hope that I’ll be able to provide overall comfort and guidance for my mentee, and anticipate that having a mentee will provide me with similar comfort. More importantly, I hope that my relationship with my mentee will become a genuine friendship where we are able to be comfortable with each other and talk regularly. Hopefully whenever in-person activities resume, we can go out for some food or exploring together.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/andrea-eleazar.JPG" | absolute_url }}" alt="Andrea Eleazar" class="rounded post-img" />
 </div>

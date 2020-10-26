@@ -1,32 +1,34 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Jessica Jiang"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/jessica-jiang.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: Hi hi! My name is Jessica and I constantly make too much food. Introverted, first generation college student figuring things out. Always available if you need someone to rant to or just need to talk through things.  # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Sophomore 
+major: Computer Science
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi hi! My name is Jessica and I constantly make too much food. Introverted, first generation college student figuring things out. Always available if you need someone to rant to or just need to talk through things. 
+
+### Previous Work Experience
+- Vanguard - Developer
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+At the end of the day, I want to put some good into the world. I plan to build up my technology background through larger companies through college (and some years after) and use it down the line to help nonprofits further their mission. 
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I like volunteering, cooking, baking, using construction tools, planning and getting dragged into things. Those are the things that are consistent. I often switch in and out of hobbies so I'm down to try most things (no heights please).
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I hope that I have a really good relationship with my mentee that they always feel comfortable reaching to me for anything serious or just to talk. They would know that I’m always there to help. It would great for us to be able to share experiences and try new things together. 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jessica-jiang.jpg" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
 </div>

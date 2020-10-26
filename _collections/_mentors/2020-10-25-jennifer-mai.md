@@ -1,32 +1,35 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Jenny Mai"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/jenny-mai.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I am an introvert that grew up in a small town in central Pennsylvania that decided to go to Philadelphia to experience thencity life and meet new people. # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Pre-Junior
+major: Chemical Engineering
+minor: Engineering Management
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am an introvert that grew up in a small town in central Pennsylvania that decided to go to Philadelphia to experience thencity life and meet new people.
+
+### Previous Work Experience
+- Drexel University Researcher
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To work at any chemical processing company to manufacture things that are beneficial to human beings.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If given the opportunity to I would love to travel to different places and go sightseeing. While during my free time, watch some anime and kdramas. 
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I would want to give them advise that they need in situations that I am able to help them with. During our spare time I would like to get to know my mentee and hang out with them.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jenny-mai.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
 </div>

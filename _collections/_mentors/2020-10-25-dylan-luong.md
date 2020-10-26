@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Dylan Luong"
-date:   2020-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/dylan-luong.jpeg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/dylan-luong.jpeg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
 about: I am someone who continuously looks for new avenues towards self-improvement. I may appear to be really shy at first, but once you get to know me, I naturally start to show my more fun, carefree side. I am ambitious, reliable, and a little silly here and there. # "Briefly describe yourself"
 # pull the following info from form
 year: Sophomore 
-major: Sports Business and Marketing  
-minor:
+major: Marketing
+minor: Sports Business
+
 ---
 
 ### About
