@@ -19,7 +19,7 @@ author: Tommy Bui Nguyen
 description: >- # this means to ignore newlines until "baseurl:"
   Profiles for SASE Drexel's 2020-2021 mentorship program.
 baseurl: "/mentorship-profiles" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sase-drexel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 include: ["_pages"]
 collections_dir: _collections
 twitter_username: jekyllrb

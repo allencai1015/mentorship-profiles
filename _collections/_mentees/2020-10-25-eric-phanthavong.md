@@ -2,7 +2,7 @@
 layout: post
 title: "Eric Phanthavong"
 date:   2020-10-25 # Date you're making this file in Y-M-D
-image: assets/images/Eric Phanthavong.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+image: assets/images/eric-phanthavong.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
 about: I think I'm pretty outgoing and I like meeting new people. I can be pretty weird sometimes and I'm not afraid of showing it. One of the more interesting things about me is that my parents own a restaurant in Philly. # "Briefly describe yourself"
 # pull the following info from form
 year: Freshman

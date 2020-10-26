@@ -1,4 +1,10 @@
-<h1>Mentors</h1>
+<div class=" container-fluid polka">
+  <div class="col-md-5 mx-auto my-3">
+    <h1 class="d-flex justify-content-center">Mentors</h1>
+  </div>
+  <div class="product-device shadow-sm d-none d-md-block"></div>
+  <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+</div>
 <section class="row m-2">
   <div class="card-columns">
     {% assign mentors = site.mentors | reverse%}
@@ -17,7 +23,13 @@
     {% endfor %}
   </div>
 </section>
-<h1>Mentees</h1>
+<div class=" container-fluid polka">
+  <div class="col-md-5 mx-auto my-3">
+    <h1 class="d-flex justify-content-center">Mentees</h1>
+  </div>
+  <div class="product-device shadow-sm d-none d-md-block"></div>
+  <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+</div>
 <section class="row m-2">
   <div class="card-columns">
     {% assign mentees = site.mentees | reverse%}

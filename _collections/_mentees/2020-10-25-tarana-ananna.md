@@ -2,7 +2,7 @@
 layout: post
 title: "Tarana Ananna"
 date:   2020-10-25 # Date you're making this file in Y-M-D
-image: assets/images/tarana-ana.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+image: assets/images/tarana-ana.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
 about: Hi, I'm Tarana. I'm currently in the 5 year 3 co-op program at Drexel. I'm shy, a little quiet, but friendly! Workwise, I like keeping myself organized and on track. I am passionate about constantly improving myself and learning new things that help me personally and academically. # "Briefly describe yourself"
 # pull the following info from form
 year: Freshman
