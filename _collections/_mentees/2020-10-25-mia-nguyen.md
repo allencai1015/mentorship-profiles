@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Mia Nguyen"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/mia-nguyen.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I am a 5’7 asian girl with long dark hair and no glasses. I have very long noticeable nails. I am blunt so if anything comes as sarcastic, I don’t mean to sound so aggressive 🤧. I do get shy but once I get to know you, I’m pretty open. My zodiac sign is a cancer. I can also be very forgetful so a mentor would be amazing.  # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
-concentration: Awesomeness
+year: Freshman
+major: Business
+
+
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a 5’7 asian girl with long dark hair and no glasses. I have very long noticeable nails. I am blunt so if anything comes as sarcastic, I don’t mean to sound so aggressive 🤧. I do get shy but once I get to know you, I’m pretty open. My zodiac sign is a cancer. I can also be very forgetful so a mentor would be amazing. 
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Being rich wouldn’t be the worst but, if I were to be financially stable, I’d be pleased as well. 
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I love art, specifically painting, drawing and calligraphy. I listen to music 25/8! Preferably R&B but I can listen to anything. I watch a lot of reality TV which is so bad🤧 but I can’t live without it. Guilty pleasure is definitely Starbucks and Chipotle. I can’t live without it. 
 
 ### Looking For
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Someone to guide me through this semester because I can be easily lost and frustrated. I would love to be good friends as well. Being inside all the time can be exhausting. 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/mia-nguyen.jpg" | absolute_url }}" alt="Mia Nguyen" class="rounded post-img" />
 </div>
