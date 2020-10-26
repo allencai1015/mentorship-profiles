@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Qinlan Moc"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/qinlan-moc.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I am friendly and easy to get along with, but I struggle with asking for help.  # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
-concentration: Awesomeness
+year: Freshman 
+major: Technology Innovation Management
+
+
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am friendly and easy to get along with, but I struggle with asking for help. 
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I need to figure out career goals, but I would like to find a job with stable income and be independent. 
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hanging out, reading Chinese novels, listen to music
 
 ### Looking For
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Someone who would reach out to me and easy to communicate with. Someone who has experience in interviews and landed a really good co-op. I'm not really sure what I'm looking for, I prefer to talk to them first to see how it goes. 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/qinlan-moc.jpg" | absolute_url }}" alt="Qinlan Moc" class="rounded post-img" />
 </div>
