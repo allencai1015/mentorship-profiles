@@ -1,32 +1,33 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Steven Zhao"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/steven-zhao.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I am a new sophomore who would like to participate in clubs more despite the current conditions. Generally I'd describe myself as on the reserved side, but I like talking with someone and getting to know what kind of person they are and what things interest them.  # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
-concentration: Awesomeness
+year: Sophomore
+major: Economics
+
+
+
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a new sophomore who would like to participate in clubs more despite the current conditions. Generally I'd describe myself as on the reserved side, but I like talking with someone and getting to know what kind of person they are and what things interest them. 
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Currently my only long term goal is to possibly go into law school an go into law. However currently I want to explore the other career options that Economics can possibly lead me to. Additionally I'm planning on minoring in computer science so I might also pursue that area as well.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am into basketball and follow the nba pretty hard. Generally though I'd say I'm more into geeky things like videogames, and anime. I also like drawing and EDM type music.
 
 ### Looking For
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the academic/career side I am looking for someone who can assist me in choosing the best classes to take, and help me discover the career path I should focus on. Largely though I'm looking for a friend and having the opportunity to socialize more during this situation.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/steven-zhao.png" | absolute_url }}" alt="Steven Zhao" class="rounded post-img" />
 </div>
