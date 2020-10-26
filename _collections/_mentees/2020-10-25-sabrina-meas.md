@@ -28,5 +28,5 @@ I really like to video edit, although I'm still quite an amateur at it. I'm into
 I want a mentor who I can be personal with, like a friend I can be close with, but also someone who can be very helpful in guiding me and giving me advice. A mentor who is like an older sibling/friend, who can push me out of my comfort zone and help me build connections.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/sabrina-meas.png" | absolute_url }}" alt="Sabrina Meas" class="rounded post-img" />
+    <img src="{{ "assets/images/sabrina-meas.jpg" | absolute_url }}" alt="Sabrina Meas" class="rounded post-img" />
 </div>
