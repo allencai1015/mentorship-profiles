@@ -6,7 +6,7 @@ image: assets/images/suki-chong.JPG # Please make sure to upload image in /asset
 about: I'm pretty laidback and easygoing for the most part. I'm pretty introverted, but I am friendly when people get to know me.  # "Briefly describe yourself"
 # pull the following info from form
 year: Freshman 
-major: Awesome Thing
+major: Computer Science
 
 
 

@@ -8,7 +8,6 @@ about: I am a very friendly and positive person, but am a little shy when meetin
 year: Freshman 
 major: Electrical Engineering
 
-concentration: Awesomeness
 ---
 
 ### About
