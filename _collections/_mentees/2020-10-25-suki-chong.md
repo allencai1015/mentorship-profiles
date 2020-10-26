@@ -2,7 +2,7 @@
 layout: post
 title: "Suki Chong"
 date:   2020-10-25 # Date you're making this file in Y-M-D
-image: assets/images/suki-chong.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+image: assets/images/suki-chong.JPG # Please make sure to upload image in /assets/images/fname-lastname.ext format 
 about: I'm pretty laidback and easygoing for the most part. I'm pretty introverted, but I am friendly when people get to know me.  # "Briefly describe yourself"
 # pull the following info from form
 year: Freshman 
@@ -30,5 +30,5 @@ I'm looking for a friend that I can come to if I need help with things at Drexel
 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/suki-chong.jpg" | absolute_url }}" alt="Suki Chong" class="rounded post-img" />
+    <img src="{{ "assets/images/suki-chong.JPG" | absolute_url }}" alt="Suki Chong" class="rounded post-img" />
 </div>
