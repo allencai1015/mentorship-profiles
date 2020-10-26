@@ -29,5 +29,5 @@ I am into basketball and follow the nba pretty hard. Generally though I'd say I'
 On the academic/career side I am looking for someone who can assist me in choosing the best classes to take, and help me discover the career path I should focus on. Largely though I'm looking for a friend and having the opportunity to socialize more during this situation.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/steven-zhao.png" | absolute_url }}" alt="Steven Zhao" class="rounded post-img" />
+    <img src="{{ "assets/images/steven-zhao.jpg" | absolute_url }}" alt="Steven Zhao" class="rounded post-img" />
 </div>
