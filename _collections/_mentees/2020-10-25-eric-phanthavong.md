@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Eric Phanthavong"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/Eric Phanthavong.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I think I'm pretty outgoing and I like meeting new people. I can be pretty weird sometimes and I'm not afraid of showing it. One of the more interesting things about me is that my parents own a restaurant in Philly. # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
-concentration: Awesomeness
+year: Freshman
+major: International Business
+
+
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I think I'm pretty outgoing and I like meeting new people. I can be pretty weird sometimes and I'm not afraid of showing it. One of the more interesting things about me is that my parents own a restaurant in Philly.
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+One day I hope to either hold a high position in a business or own my own business. Companies I want to work in are ones that are either entertainment or tech related.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I like a lot of typical Asian boy stuff like anime, k-pop, and video games. I also like crime/detective shows and eating food.
 
 ### Looking For
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Mostly just wanna meet someone new, but some college advice would be a nice cherry on top.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/eric-phanthavong.jpg" | absolute_url }}" alt="Eric Phanthavong" class="rounded post-img" />
 </div>
