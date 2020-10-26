@@ -1,32 +1,39 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Jui Hanamshet"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/jui-hanamshet.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I'm from Mumbai, India. I'm passionate about tech that impacts people in positive ways. I run the Women in Computing Society club at Drexel. # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Senior 
+major: Computer Engineering
+minor: Computer Science
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm from Mumbai, India. I'm passionate about tech that impacts people in positive ways. I run the Women in Computing Society club at Drexel.
+
+### Previous Work Experience
+- Software Engineer, Microsft
+- Quant Analyst, Goldman Sachs
+- Software Engineering & PM, Microsoft
+- Data Scientist, Wego
+- Smart Grid Engineer, PECO
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+My goal is to be a software engineer working on an ethical product that improves peoples. 
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I do a lot of D&I work, I'm the President of Women in Computing Society. I also like cooking, watching random movies, building apps and never finishing them. I try to be a minimalist. 
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I envision a relationship that best works for the mentee. We can set up regular meetings or we can only meet when they have questions. If they need me to do mock interviews or use me for accountability, I can do that. Most importantly, I would advise them to use me as a resource for whatever it is they need.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jui-hanamshet.jpg" | absolute_url }}" alt="Jui Hanamshet" class="rounded post-img" />
 </div>

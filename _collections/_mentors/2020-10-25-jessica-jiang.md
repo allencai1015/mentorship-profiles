@@ -30,5 +30,5 @@ I like volunteering, cooking, baking, using construction tools, planning and get
 I hope that I have a really good relationship with my mentee that they always feel comfortable reaching to me for anything serious or just to talk. They would know that I’m always there to help. It would great for us to be able to share experiences and try new things together. 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/jessica-jiang.jpg" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jessica-jiang.jpg" | absolute_url }}" alt="Jessica Jiang" class="rounded post-img" />
 </div>

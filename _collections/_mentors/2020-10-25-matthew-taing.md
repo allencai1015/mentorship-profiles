@@ -1,32 +1,35 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Matthew Taing"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/matthew-taing.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I'm a pre-junior studying Computer Science, who enjoys video games, board games, volleyball, basketball, anime, boba, and late-night walks. Over quarantine, I've gotten more into stocks, investments, and way too much Among Us.  # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Pre-Junior
+major: Computer Science
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a pre-junior studying Computer Science, who enjoys video games, board games, volleyball, basketball, anime, boba, and late-night walks. Over quarantine, I've gotten more into stocks, investments, and way too much Among Us. 
+
+### Previous Work Experience
+- Stealth Software Developer Coop - Unisys 
+- Fullstack Developer Coop - Vanguard
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Software Developer in a big tech city. Hopefully, making a steady passive income in order to become financially independent and retire early.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I like video games, board games, volleyball, basketball, anime, boba, and late-night walks as well as food adventures, traveling, and road-trips.
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A relationship where we're both equals and can learn from each other. I hope that we can hang out, gaming, or finding new food spots when quarantine is over.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/matthew-taing.jpg" | absolute_url }}" alt="Matthew Taing" class="rounded post-img" />
 </div>

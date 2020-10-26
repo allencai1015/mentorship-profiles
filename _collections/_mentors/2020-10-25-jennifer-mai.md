@@ -31,5 +31,5 @@ If given the opportunity to I would love to travel to different places and go si
 I would want to give them advise that they need in situations that I am able to help them with. During our spare time I would like to get to know my mentee and hang out with them.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/jenny-mai.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/jenny-mai.png" | absolute_url }}" alt="Jenny Mai" class="rounded post-img" />
 </div>

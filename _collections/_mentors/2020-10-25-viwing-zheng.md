@@ -1,32 +1,35 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Viwing Zheng"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/viwing-zheng.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: Hello, my name is Viwing Zheng. You can just refer to me as Vi. I am a third year studying Computer Science, and I am currently the President of SASE Drexel. My favorite animal is the panda, and a fun fact is that I can say "Imagine pandas eating cherry tomatoes" in at least 5 different languages. I am a very friendly person, and I hope to become very good friends with my mentee. On my free time, I enjoy eating, cooking (I can cook for you!), playing the ukulele, and many more. My hobbies tend to change over time because I like to try out new things! We can try new things together!  # "Briefly describe yourself"
 # pull the following info from form
-year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+year: Pre-Junior 
+major: Computer Science
+minor: Management Information Systems
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello, my name is Viwing Zheng. You can just refer to me as Vi. I am a third year studying Computer Science, and I am currently the President of SASE Drexel. My favorite animal is the panda, and a fun fact is that I can say "Imagine pandas eating cherry tomatoes" in at least 5 different languages. I am a very friendly person, and I hope to become very good friends with my mentee. On my free time, I enjoy eating, cooking (I can cook for you!), playing the ukulele, and many more. My hobbies tend to change over time because I like to try out new things! We can try new things together! 
+
+### Previous Work Experience
+- Vanguard IT Developer
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the future, I wish to become someone in a C-level position in a company preferably started by me. I want to live and fight for something that I believe in and find joy in doing. This goal is super far down the line, but I hope to achieve it one day! But in terms of a short term goal, I want to rack up technical skills during coop (which is spring-summer for me), and when I am released to society after graduation, I can be of help, and hopefully be a manager position. 
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am interested in food (low-key a foodie) and cooking, so I can cook my mentee food. I also enjoy to watch YouTube videos and anime on my free time. I sometimes also do math for fun haha. Also, I am trying to dabble into more personal projects. I have a lot of interests, but one that I'm trying to get into is extreme sports, so I want to go sky diving, paragliding, etc. I think that physical excursions are always fun!
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I think my relationship will be a combination of the academic, professional, and emotional. I am looking for a mentee that is friendly and kind. I don't have a ideal mentee type, but I like someone who is willing to step out of their comfort zones, and maybe I can drag them out if anything. 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/viwing-zheng.jpg" | absolute_url }}" alt="Viwing Zheng" class="rounded post-img" />
 </div>

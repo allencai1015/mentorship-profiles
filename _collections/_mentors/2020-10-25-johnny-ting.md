@@ -32,5 +32,5 @@ My interests include playing video games and watching stuff on my laptop while v
 I hope that my mentee will be able to see me as a friend that they can lean on and an advice giver for whatever they need!  Spending time with them and getting to know them personally is a goal of mine! 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/johnny-ting.JPG" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/johnny-ting.JPG" | absolute_url }}" alt="Johnny Ting" class="rounded post-img" />
 </div>

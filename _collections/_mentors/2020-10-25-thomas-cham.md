@@ -1,32 +1,36 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Thomas Cham"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/thomas-cham.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: My name is Thomas. I'm a comp sci major, so you'll typically find me talking about programming with friends. I'm very easy to talk to so don't be scared to approach.  # "Briefly describe yourself"
 # pull the following info from form
 year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
+major: Computer Science
+concentration: Computer Security
 
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+My name is Thomas. I'm a comp sci major, so you'll typically find me talking about programming with friends. I'm very easy to talk to so don't be scared to approach. 
+
+### Previous Work Experience
+- Technical Support Manager @ CCI
+- Software Developer @ Sharing Excess
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+My main career goal is to find a job that I find comfortable and happy doing. Hopefully no more 9 am's :P
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ I like anime, photography, finding new foods/restaurants, and video games. Favorite anime is Zetsuen no Tempest. Favorite photography spot in Philly is the Schuylkill river trail. Favorite video games right now are CS:GO and Valorant. 
 
-### Looking For
+### What to expect from me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I hope I won't just be seen as a mentor mostly. I hope to make a new friend as well. My mentee should be able to feel like he/she can come to me for anything. 
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/thomas-cham.jpg" | absolute_url }}" alt="Thomas Cham" class="rounded post-img" />
 </div>
