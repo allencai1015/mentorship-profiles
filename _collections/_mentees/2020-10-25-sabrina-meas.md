@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "FirstName LastName"
-date:   2019-10-18 # Date you're making this file in Y-M-D
-image: ../assets/images/fine-dog.png # Please make sure to upload image in /assets/images/fname-lastname.ext format 
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. # "Briefly describe yourself"
+title: "Sabrina Meas"
+date:   2020-10-25 # Date you're making this file in Y-M-D
+image: assets/images/sabrina-meas.jpg # Please make sure to upload image in /assets/images/fname-lastname.ext format 
+about: I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice. # "Briefly describe yourself"
 # pull the following info from form
 year: Junior 
-major: Awesome Thing
-minor: Other Awesome Thing
-concentration: Awesomeness
+major: Chemical Engineering
+
+
 ---
 
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I enjoy meeting new people and open up to them easily, which makes me easy to talk to. I am a pretty curious person who is enthusiastic about many things, making me a good communicator as well. I also find myself helping others a lot, listening to their problems and giving them advice.
 
 ### Career Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm still trying to figure out what I want to do. I know that I want to do something with biotechnology, where I can work with medical and pharmaceutical facilities. I want to work close to scientific/medical research.
 
 ### Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I really like to video edit, although I'm still quite an amateur at it. I'm into Lo-fi and Indie music, and I am obsessed with K-dramas (Also, Grey's Anatomy and Black Mirror). I also love cafe hopping, eating (but who doesn't), and doing mini photoshoots with my friends!
 
 ### Looking For
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I want a mentor who I can be personal with, like a friend I can be close with, but also someone who can be very helpful in guiding me and giving me advice. A mentor who is like an older sibling/friend, who can push me out of my comfort zone and help me build connections.
 
 <div class="text-center my-5">
-    <img src="{{ "assets/images/fine-dog.png" | absolute_url }}" alt="Fine Dog" class="rounded post-img" />
+    <img src="{{ "assets/images/sabrina-meas.png" | absolute_url }}" alt="Sabrina Meas" class="rounded post-img" />
 </div>
