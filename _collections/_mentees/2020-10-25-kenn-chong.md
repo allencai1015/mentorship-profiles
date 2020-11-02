@@ -5,7 +5,7 @@ date:   2020-10-25 # Date you're making this file in Y-M-D
 image: assets/images/kenn-chond.jpg # Please make sure to upload image in /assets/images/firstname-lastname.ext format 
 about: 20 years old, looking for experiences that will allow me to grow and mature as a person. I want to do stuff that makes me feel a bit uncomfortable because I feel like challenging life feels more fun.  # "Briefly describe yourself"
 # pull the following info from form
-year: Freshman
+year: Sophomore
 major: Computer Science
 
 
