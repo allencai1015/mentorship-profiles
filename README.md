@@ -12,6 +12,12 @@ Mentor and mentee profiles are stored in .md files under the `/collections` fold
 
 The entire website is built upon the html templates found in `_layouts` and `_includes`. To move content around, edit the HTML tags in those folders and rebuild the site.
 
+## Deploying
+1. `git checkout` the repo locally
+* make sure you have Ruby and Jekyll requirements installed (instructions below)
+2. run `bundle exec jekyll build`
+3. `git push` repo to master and check `https://sase-drexel.github.io/mentorship-profiles/` is updated with new profiles
+
 ## Viewing Locally
 
 1. follow instructions on [install Jekyll locally](https://jekyllrb.com/docs/installation/)
