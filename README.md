@@ -8,15 +8,23 @@ Built with:
 - [Jekyll Docs](https://jekyllrb.com/docs/)
 
 ## How to edit
-Mentor and mentee profiles are stored in .md files under the `/collections` folder. Each file is rendered onto a template under `_layouts/post.html`
+Navigate to the `gh-pages` branch in the repo. You can also access it directly through [this link](https://github.com/SASE-Drexel/mentorship-profiles/tree/gh-pages)
+
+Mentor and mentee profiles are stored in `.md` files under the `/collections` folder. Each file is rendered onto a template under `_layouts/post.html`
 
 The entire website is built upon the html templates found in `_layouts` and `_includes`. To move content around, edit the HTML tags in those folders and rebuild the site.
 
+### Adding/Editing Profiles
+
+Navigate to `_collections/` and enter either the `_mentors` or `_mentees` directory. Select one of the existing `.md` files or add a new `.md` file directly. Modify content by directly editing the text within the document. Make sure to save changes after you've finished editing.
+
 ## Deploying
-1. `git checkout` the repo locally
+1. `git clone` the repo locally
+2. `git checkout gh-pages`
+3. `git pull` to make sure you have the most recent version
 * make sure you have Ruby and Jekyll requirements installed (instructions below)
-2. run `bundle exec jekyll build`
-3. `git push` repo to master and check `https://sase-drexel.github.io/mentorship-profiles/` is updated with new profiles
+4. run `bundle exec jekyll build`
+5. `git push` repo to master and check `https://sase-drexel.github.io/mentorship-profiles/` is updated with new profiles
 
 ## Viewing Locally
 
