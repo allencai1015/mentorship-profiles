@@ -1,4 +1,4 @@
-# SASE 2020-2021 Mentorship Program Profiles
+# SASE 2021-2022 Mentorship Program Profiles
 
 Built with:
 - Jekyll
